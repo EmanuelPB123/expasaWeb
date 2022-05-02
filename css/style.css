@@ -81,6 +81,7 @@ html {
   position: relative;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -120,7 +121,7 @@ a:hover {
 }
 
 a.read-more {
-  color: #b1a120;
+  color: #FFCC29;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -259,7 +260,7 @@ a:focus {
 }
 
 .dropcap.primary {
-  background: #b1a120;
+  background: #FFCC29;
   color: #fff;
 }
 
@@ -346,7 +347,7 @@ a:focus {
 
 .form-control:focus {
   box-shadow: none;
-  border: 1px solid #b1a120;
+  border: 1px solid #FFCC29;
 }
 
 hr {
@@ -370,12 +371,12 @@ blockquote {
   margin: 20px 0;
   background: #f9f9f9;
   position: relative;
-  border-left: 3px solid #b1a120;
+  border-left: 3px solid #FFCC29;
   padding-left: 40px;
 }
 
 blockquote.text-center {
-  border-top: 3px solid #b1a120;
+  border-top: 3px solid #FFCC29;
   border-left: 0;
   padding-left: 25px;
   padding-top: 50px;
@@ -389,7 +390,7 @@ blockquote.text-center:before {
 }
 
 blockquote.text-right {
-  border-right: 3px solid #b1a120;
+  border-right: 3px solid #FFCC29;
   padding-right: 40px;
   border-left: 0;
   padding-left: 25px;
@@ -444,7 +445,7 @@ cite {
   font-family: "Font Awesome 5 Free";
   content: "\f138";
   margin-right: 10px;
-  color: #b1a120;
+  color: #FFCC29;
   font-size: 12px;
 }
 
@@ -456,7 +457,7 @@ ul.list-arrow li:before {
   font-family: "Font Awesome 5 Free";
   content: "\f105";
   margin-right: 10px;
-  color: #b1a120;
+  color: #FFCC29;
   font-size: 16px;
   font-weight: bold;
 }
@@ -465,7 +466,7 @@ ul.list-check li:before {
   font-family: "Font Awesome 5 Free";
   content: "\f00c";
   margin-right: 10px;
-  color: #b1a120;
+  color: #FFCC29;
   font-size: 14px;
 }
 
@@ -519,11 +520,11 @@ a[href^=tel] {
 
 .btn-white.btn-primary {
   background: #fff;
-  color: #b1a120;
+  color: #FFCC29;
 }
 
 .btn-primary {
-  background:  #b1a120 ;
+  background:  #FFCC29 ;
 }
 
 .btn-dark {
@@ -533,7 +534,7 @@ a[href^=tel] {
 .btn-primary:hover,
 .btn-dark:hover,
 .btn-white.btn-primary:hover {
-  background: #a12327 ;
+  background: #000000 ;
   color: #fff;
 }
 

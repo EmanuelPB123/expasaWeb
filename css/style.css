@@ -1711,7 +1711,15 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 #service-icons {
   font-size: 250%;
-  color: #ED3237;
+  color: #000000;
+
+}
+#service-icons:hover {
+  font-size: 275%;
+  position: center;
+  color: #ED3237 ;
+  animation-duration: 150ms;
+  transition: 150ms ;
 
 }
 

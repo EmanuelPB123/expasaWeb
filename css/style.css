@@ -2176,10 +2176,10 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 /* Clients */
 .clients-logo {
-  margin: 0 0 30px;
-  border: 1px solid #dadada;
-  min-height: 105px;
-  padding: 0 30px;
+  margin: 0 0 20px;
+  border: 0px solid #dadada;
+  min-height: 100px;
+  padding: 0 0px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -2188,8 +2188,8 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .clients-logo img {
-  -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
+  -webkit-filter: grayscale(0%);
+          filter: grayscale(0%);
   -webkit-filter: gray;
           filter: gray;
 }

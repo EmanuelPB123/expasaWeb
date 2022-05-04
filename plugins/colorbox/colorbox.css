@@ -27,7 +27,7 @@
 #cboxError{padding:50px; border:1px solid #ccc;}
 #cboxLoadedContent{border:0 solid #000; background:#fff;}
 #cboxTitle{position:absolute; top:-20px; left:0; color:rgb(0, 0, 0);}
-#cboxCurrent{position:absolute; top:0; right:0px; color:rgb(0, 0, 0);background-color: rgba(0,0,0,0.95); width: 100%;}
+#cboxCurrent{position:absolute; top:0; right:0px; color:rgb(0, 0, 0);background-color: rgba(0, 0, 0, 0.452); width: 100%;font-size: 0px;}
 #cboxLoadingGraphic{background:url(../images/loading.gif) no-repeat center center;}
 
 /* these elements are buttons, and may need to have additional styles reset to avoid unwanted base styles */

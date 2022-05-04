@@ -3007,6 +3007,10 @@ label {
   font-weight: 400;
 }
 
+.logoexpasa {
+  align-items: center;
+}
+
 /* Contact page 2 */
 .ts-service-box.text-center .ts-service-icon.icon-squre i {
   float: none;

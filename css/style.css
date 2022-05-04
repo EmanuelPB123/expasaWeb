@@ -1699,9 +1699,22 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   margin: 0;
 }
 
+#fact-icons {
+  font-size: 250%;
+  color: #ED3237;
+
+}
+
 /* Services
 ================================================== */
 /* Service box */
+
+#service-icons {
+  font-size: 250%;
+  color: #ED3237;
+
+}
+
 .ts-service-box .ts-service-icon i {
   font-size: 36px;
   float: left;
@@ -2338,7 +2351,7 @@ img.testimonial-thumb {
 
 /* Call to action */
 .subscribe-call-to-acton {
-  min-height: 115px;
+  min-height: 80px;
   padding: 15px 0 0 15px;
 }
 

@@ -3466,6 +3466,10 @@ label {
   text-transform: capitalize;
 }
 
+.logoExpasaNavbar img{
+  padding: 10px ;
+}
+
 /* Widget tags */
 .widget-tags ul > li {
   float: left;

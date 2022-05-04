@@ -2176,16 +2176,10 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 /* Clients */
 .clients-logo {
-<<<<<<< HEAD
   margin: 0 0 20px;
   border: 0px solid #dadada;
   min-height: 100px;
   padding: 0 0px;
-=======
-  margin: 0 0 10px;
-  border: 1px solid #dadada;
-  min-height: 110px;
->>>>>>> b74c94dedc3c13fedc233d43589641bed747ea96
   display: flex;
   flex-direction: column;
   justify-content: center;

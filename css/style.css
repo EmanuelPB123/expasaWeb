@@ -901,8 +901,13 @@ ul.navbar-nav > li.active > a {
 }
 
 ul.navbar-nav > li {
-  padding: 0 13px;
+  padding: 0 30px;
   position: relative;
+  text-align: center;
+}
+
+#navb {
+text-align: center;
 }
 
 @media (max-width: 1200px) {
@@ -910,7 +915,7 @@ ul.navbar-nav > li {
     padding: 0 9px;
   }
   ul.navbar-nav > li .nav-link {
-    font-size: 12px;
+    font-size: 15px;
   }
 }
 

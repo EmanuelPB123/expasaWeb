@@ -677,6 +677,10 @@ ul.top-info li p.info-text {
   padding-left: 0;
 }
 
+.logoheader {
+  padding: 20px 0;
+}
+
 @media (max-width: 991px) {
   .navbar-collapse.collapse {
     overflow-y: auto;
